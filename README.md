@@ -1,4 +1,4 @@
-# r
+# Weather APP using Flutter and OpenWeather API
 
 A new Flutter project.
 
